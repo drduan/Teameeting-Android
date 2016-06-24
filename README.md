@@ -6,6 +6,7 @@
 
 <iframe src="http://7xirvo.com1.z0.glb.clouddn.com/meizuhuitest.mp4" frameborder="0" allowfullscreen="true" width="480" height="800"></iframe>
 
+![enter image description here](http://ww1.sinaimg.cn/large/005PCOm1gw1f565v2uq93g30b40jrqvj.gif)
 
 [演示地址](http://7xirvo.com1.z0.glb.clouddn.com/meizuhuitest.mp4)
 
